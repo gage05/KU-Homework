@@ -144,13 +144,9 @@ p {
 }
 
 @media (max-width: 768px) {
-    .content {
+    .content, .benefits {
         width: 100%;
         margin-left: 0;
-    }
-
-    .benefits {
-        width: 100%;
         margin-right: 0;
     }
 }
